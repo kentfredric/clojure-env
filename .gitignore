@@ -1,2 +1,7 @@
 /bin/lein
+/bin/boot
 /lein/home/self-installs
+/boot/home/boot.properties
+/boot/home/cache/bin/
+/boot/home/cache/lib/
+/boot/repo/
